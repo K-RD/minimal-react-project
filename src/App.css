@@ -35,6 +35,7 @@ button,input{
   border-radius: 10px;
   border: 1px dotted;
   margin: 10px;
+  width: 400px;
 }
 button:hover{
   background: #ccc;
