@@ -37,6 +37,9 @@ button,input{
   margin: 10px;
   width: 400px;
 }
+.btnSecondary{
+  width: 190px;
+}
 button:hover{
   background: #ccc;
   color: #000;
